@@ -6,6 +6,9 @@ Stream and download a torrent through a plain http request :grin:
 
 Torrent Web is a self hosted server. It lets you direct download torrents with a simple web UI.
 
+## Be quick in getting a working version (Babysteps)
+ - https://collegetorrent.herokuapp.com/
+
 ## Get your own (Easy)
 - Sign up for [Heroku](https://dashboard.heroku.com/), this gives you a free server.
 - Click the Deploy button below to load this app into your Heroku account.  
@@ -22,4 +25,4 @@ Torrent Web is a self hosted server. It lets you direct download torrents with a
 Change the port with --port= or -p=  
 `torrent-web -p=8080`
 
-###### © 2015 Andrea Stella, ISC license.
+###### Â© 2015 Andrea Stella, ISC license.
